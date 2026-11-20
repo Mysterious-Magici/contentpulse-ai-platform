@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+python-ml/venv/
+python-ml/__pycache__/
+*.pyc
+.DS_Store
