@@ -3,8 +3,7 @@
 Flagship **Module 14 Capstone Project** combining **Python AI/ML, Data Science, and the MERN Stack** to help small businesses generate high-converting marketing copy and analyze content performance at **₹0/$0 infrastructure cost**[cite: 1, 29].
 
 ## Live Demo & Hosting
-* **Live Web App (Vercel):** `https://contentpulse-ai.vercel.app`[cite: 1, 29]
-* **Live Backend API (Render):** `https://contentpulse-ai-api.onrender.com`[cite: 1, 29]
+* **Live Web App (Vercel):** `https://contentpulse-ai-platform.vercel.app/`[cite: 1, 29
 
 ## Key Features
 * **Prompt-Engineered AI Content Studio:** Generates tailored Instagram posts, emails, Google ads, product descriptions, and blog intros via Groq Free API[cite: 2, 29].
